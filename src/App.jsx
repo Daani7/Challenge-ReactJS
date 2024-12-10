@@ -1,10 +1,14 @@
 import './App.css';
-import Chrono from './component/Chrono';
+import ShowNumbers from './component/ShowNumbers';
+
 
 function App() {
+
+
+
   return (
     <>
-      <Chrono />
+      <ShowNumbers />
     </>
   );
 }
