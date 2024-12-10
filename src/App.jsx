@@ -1,13 +1,12 @@
-import './App.css'
-import Chrono from './component/Chrono'
+import './App.css';
+import Chrono from './component/Chrono';
 
 function App() {
-
   return (
     <>
-    <Chrono/>
+      <Chrono />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
